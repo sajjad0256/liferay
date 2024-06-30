@@ -1,0 +1,43 @@
+<!--<?xml version="1.0"?>-->
+<!--<!DOCTYPE display PUBLIC "-//Liferay//DTD Display 7.2.0//EN" "http://www.liferay.com/dtd/liferay-display_7_2_0.dtd">-->
+
+<!--<display>-->
+<!--    &lt;!&ndash; تنظیمات نمایش مدیریت پورتل &ndash;&gt;-->
+<!--    <category name="admin">-->
+<!--        <portlet id="com_liferay_portal_settings_web_portlet_PortalSettingsPortlet">-->
+<!--            <role-mapper>-->
+<!--                <role-name>administrator</role-name>-->
+<!--                <role-name>power-user</role-name>-->
+<!--            </role-mapper>-->
+<!--        </portlet>-->
+<!--    </category>-->
+
+<!--    &lt;!&ndash; تنظیمات نمایش میز کار &ndash;&gt;-->
+<!--    <category name="my_dashboard">-->
+<!--        <portlet id="com_liferay_my_dashboard_web_portlet_MyDashboardPortlet">-->
+<!--            <role-mapper>-->
+<!--                <role-name>user</role-name>-->
+<!--            </role-mapper>-->
+<!--        </portlet>-->
+<!--    </category>-->
+
+<!--    &lt;!&ndash; تنظیمات نمایش بخش‌های مختلف سفارشی &ndash;&gt;-->
+<!--    <category name="custom_sections">-->
+<!--        <portlet id="com_liferay_custom_sections_web_portlet_CustomSectionsPortlet">-->
+<!--            <role-mapper>-->
+<!--                <role-name>guest</role-name>-->
+<!--                <role-name>user</role-name>-->
+<!--            </role-mapper>-->
+<!--        </portlet>-->
+<!--    </category>-->
+
+<!--    &lt;!&ndash; تنظیمات نمایش تمامی صفحات &ndash;&gt;-->
+<!--    <category name="global">-->
+<!--        <layout id="1_column">-->
+<!--            <role-mapper>-->
+<!--                <role-name>guest</role-name>-->
+<!--                <role-name>user</role-name>-->
+<!--            </role-mapper>-->
+<!--        </layout>-->
+<!--    </category>-->
+<!--</display>-->
